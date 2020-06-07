@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+        <file>back2.jpg</file>
+        <file>box.qrc</file>
+        <file>DC.jpg</file>
+        <file>background1.jpg</file>
+        <file>background2.jpg</file>
+        <file>background3.jpg</file>
+        <file>background4.jpg</file>
+        <file>background5.jpg</file>
+        <file>menu.jpg</file>
+        <file>menu2.JPG</file>
+        <file>musicStart.png</file>
+        <file>musicStop.png</file>
+        <file>nextmusic.png</file>
+        <file>ai.PNG</file>
+        <file>back.jpg</file>
+        <file>background6.png</file>
+    </qresource>
+</RCC>
