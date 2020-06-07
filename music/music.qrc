@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>clickmusic.wav</file>
+        <file>music1.wav</file>
+        <file>music2.wav</file>
+        <file>music3.wav</file>
+        <file>music5.wav</file>
+        <file>music6.wav</file>
+        <file>music7.wav</file>
+        <file>music8.wav</file>
+    </qresource>
+</RCC>
